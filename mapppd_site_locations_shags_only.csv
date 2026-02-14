@@ -1,0 +1,73 @@
+site_id,site_name,region,ccamlr_id,latitude,longitude,input_srid
+WIIE,Wiencke Island east,,NA,-64.8167,-63.2667,4326
+WPSH,Watson Peninsula shags,,NA,-60.6714,-44.5483,4326
+VIZE,Vize Islands,,NA,-65.6739,-65.5864,4326
+UPPI,Upper Island,,NA,-66.0075,-65.6414,4326
+UISL,Unnamed islands off SW Low Island,,NA,-63.3242,-62.2932,4326
+UISM,Unnamed Island (south of Martin Island),,NA,-65.6881,-65.3381,4326
+TIWW,Two islets W of Winkle Island,,NA,-65.52,-65.686,4326
+TOUR,Tournachon Rocks,,NA,-64.318889,-61.119167,4326
+STRP,Strath Point,,NA,-64.5289,-62.5986,4326
+SIGI,Signey Island,,NA,-60.71,-45.628,4326
+RUGI,Rugged Island,,NA,-62.644,-61.1887,4326
+ROEI,Roe Island,,NA,-64.0192,-60.8242,4326
+ROCI,Roca Islands,,NA,-65.1875,-64.4483,4326
+RACO,Racovitza Islands,,NA,-64.5175,-62.0744,4326
+PRII,Priest Island shags,,NA,-64.866667,-63.516667,4326
+POWW,Powell Island west,,NA,-60.6877,-45.1013,4326
+PKIS,Pickwick Island south,,NA,-65.512,-65.6541,4326
+PKIN,Pickwick Island north,,NA,-65.466389,-65.542222,4326
+PEAR,Pearl Rocks,,NA,-63.589722,-59.889722,4326
+PATR,Patrick Island,,NA,-65.5148,-65.6457,4326
+OMEG,Omega Island (Melchior group),,NA,-64.3438,-62.9531,4326
+MITP,Mitchell Point,,NA,-64.2158,-62.0488,4326
+MBNR,Milburn Bay Northwest Rocks,,NA,-63.7247,-60.805,4326
+MEAD,Meade Islands,,NA,-62.4489,-60.0608,4326
+MAIS,Martin Islands,,NA,-65.6329,-65.324,4326
+MARE,Marie Island,,NA,-66.1217,-65.7536,4326
+MAIP,Maipo Island,,NA,-64.4239,-62.2822,4326
+LOBR,Lobodon Rocks,,NA,-64.0892,-61.6228,4326
+LEIT,Leith Cove,,NA,-64.8717,-62.8265,4326
+LAJS,Lajarte Islands (south),,NA,-64.2417,-63.4833,4326
+LAJN,Lajarte Islands (north),,NA,-64.22,-63.5,4326
+LAGI,Lagoon Island,,NA,-67.593809,-68.239028,4326
+KILL,Killingbeck Island,,NA,-67.5714,-68.0733,4326
+KATR,Kater Rocks,,NA,-63.7658,-59.8969,4326
+INDI,Islets N of Dodman Island,,NA,-65.91667,-65.78333,4326
+INCR,Islets N of Cape Roquemaurel,,NA,-63.5361,-58.9664,4326
+IERR,Islets E of Roget Rocks,,NA,-64.332778,-61.139167,4326
+ISHI,Islet SE of Hennessy Islands,,NA,-65.9008,-65.6789,4326
+ISG2,Islet SE of Gerlache Island (2/2),,NA,-64.6037,-64.2094,4326
+ISG1,Islet SE of Gerlache Island (1/2),,NA,-64.601,-64.214,4326
+ICAD,Islet off of Cape Davidson,,NA,-60.75056,-44.81833,4326
+INSI,Islet NW of Spert Island,,NA,-63.8225,-60.959722,4326
+INFI,Islet NE of Fitzkin Island,,NA,-65.514,-65.48,4326
+INMP,Islet N of Meusnier Point,,NA,-64.5192,-61.6031,4326
+INJI,Islet N of Jagged Island,,NA,-65.96,-65.6619,4326
+IEGI,Islet E of Guepratte Island,,NA,-64.492778,-62.955,4326
+HOMB,Hombron Rocks,,NA,-63.466,-58.7,4326
+GUEB,Guébriant Islands,,NA,-67.8017,-68.4053,4326
+GIRD,Girdler Island,,NA,-66.0108,-65.6506,4326
+FLEM,Fleming Point,,NA,-64.3319,-62.5889,4326
+ETAI,Eta Island (Melchior group),,NA,-64.2986,-62.8805,4326
+ELER,Elephant Rocks,,NA,-64.7695,-64.0735,4326
+DUPE,Duperré Bay,,NA,-64.461389,-62.657222,4326
+DRIE,Driencourt Point,,NA,-64.2072,-62.5375,4326
+DAIE,Davis Island East,,NA,-64.08917,-62.05472,4326
+CUTH,Cuthbertson Rock,,NA,-60.7011,-44.4523,4326
+CHSW,Chionis Island southwest,,NA,-63.8918,-60.6805,4326
+CINE,Chionis Island northeast,,NA,-63.8688,-60.5803,4326
+CHOS,Chionis Island,,NA,-63.8783,-60.6385,4326
+CANS,Cape Neumayer South,,NA,-63.720278,-60.585556,4326
+EVNO,Cape Evensen north,,NA,-66.14278,-65.69917,4326
+CAPS,Cape Anna South,,NA,-64.5999,-62.4305,4326
+CAPA,Cape Anna,,NA,-64.5881,-62.4322,4326
+BYPW,Byers Peninsula west,,NA,-62.63,-61.14,4326
+BYPN,Byers Peninsula northeast,,NA,-62.6164,-61.0283,4326
+BOBI,Bob Island,,NA,-64.9417,-63.4417,4326
+BLUF,Bluff Island,,NA,-64.3475,-61.5458,4326
+BERR,Bernard Rocks,,NA,-64.12861,-62.01861,4326
+BELI,Bell Island,,NA,-64.2782,-61.9976,4326
+BATE,Bates Island,,NA,-65.820981,-65.630586,4326
+AVIC,Avicenna Bay,,NA,-64.4566,-62.365,4326
+ANAG,Anagram Islands,,NA,-65.209,-64.331,4326
